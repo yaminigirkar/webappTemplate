@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h1 style="color:blue;">This is a Blue Heading</h1>
+<h3>Hello World!WELCOME </h3>
 </body>
 </html>
