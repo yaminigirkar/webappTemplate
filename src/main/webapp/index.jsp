@@ -12,7 +12,7 @@
 			<div class="menu">
 			<span class="search"><input type="text"  name="search" /> <input type="submit" class="button" value="Search" />
 			</span>
-					<span class="home"><a href="index.html">Home</a></span> 
+					<span class="home"><a href="index.jsp">Home</a></span> 
 					<span class="alt"><a href="aboutus.html">About Us</a></span> 
 					<span class="alt"><a href="#">News</a></span> 
 					<span class="alt"><a href="contact.html">Contact</a></span>					
@@ -22,7 +22,7 @@
 			<div class="main_nav">	
 				<div class="sub_menu">
 					<div>Menu</div>
-						<a href="index.html">Home</a>
+						<a href="index.jsp">Home</a>
 						<a href="aboutus.html">About Us</a>
 						<a href="#">News</a>
 						<a href="contact.html">Contact</a>
